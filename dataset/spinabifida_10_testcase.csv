@@ -1,0 +1,11 @@
+ID,Textual Report,Label,Gestational Age (Weeks),Maternal Age (Years),Spinal Lesion Size (mm),Severity,Head Measurements,Associated Conditions
+1,Lemon sign and banana sign observed; lesion at L2-L3 region; ventriculomegaly noted; spine curvature abnormal.,Spina Bifida,19,21,4mm,Moderate,"HC: 176mm, BPD: 41mm",Chiari II Malformation
+2,No abnormalities observed; fetal spine appears normal; head measurements within normal range.,No Spina Bifida,20,22,-,None,"HC: 177mm, BPD: 42mm",None
+3,Lemon sign and banana sign observed; lesion at L4-L5 region; ventriculomegaly noted; spine curvature abnormal.,Spina Bifida,21,23,6mm,Severe,"HC: 178mm, BPD: 43mm","Hydrocephalus, Chiari II Malformation"
+4,No abnormalities observed; fetal spine appears normal; head measurements within normal range.,No Spina Bifida,22,24,-,None,"HC: 179mm, BPD: 44mm",None
+5,Lemon sign and banana sign observed; lesion at L6-L7 region; ventriculomegaly noted; spine curvature abnormal.,Spina Bifida,23,25,8mm,Moderate,"HC: 180mm, BPD: 45mm",Chiari II Malformation
+6,No abnormalities observed; fetal spine appears normal; head measurements within normal range.,No Spina Bifida,24,26,-,None,"HC: 181mm, BPD: 46mm",None
+7,Lemon sign and banana sign observed; lesion at L8-L9 region; ventriculomegaly noted; spine curvature abnormal.,Spina Bifida,25,27,10mm,Moderate,"HC: 182mm, BPD: 47mm",Chiari II Malformation
+8,No abnormalities observed; fetal spine appears normal; head measurements within normal range.,No Spina Bifida,26,28,-,None,"HC: 183mm, BPD: 48mm",None
+9,Lemon sign and banana sign observed; lesion at L10-L11 region; ventriculomegaly noted; spine curvature abnormal.,Spina Bifida,18,29,12mm,Severe,"HC: 184mm, BPD: 49mm","Hydrocephalus, Chiari II Malformation"
+10,No abnormalities observed; fetal spine appears normal; head measurements within normal range.,No Spina Bifida,19,30,-,None,"HC: 185mm, BPD: 40mm",None
